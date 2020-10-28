@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    
+}
+h1 {
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-family: 'Vampiro One', cursive;
+    font-size: 90px;
+}
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+}
+.container-top {
+    position: relative;
+    padding-top: 100px;
+    background-color:  #e3fdfd;
+}
+.container-top h2 span {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.profile {
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.profile p {
+    line-height: 2;
+}
+.skills {
+    padding-top: 100px;
+}
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 100px auto;
+}
+.skill-photo1 {
+    margin-right: 30px;
+    float: left;
+    width: 25%;
+}
+.skill-photo2 {
+    margin-left: 30px;
+    float: right;
+    width: 25%;
+}
+a {
+    text-decoration: none;
+}
+.contact-me {
+    width: 40%;
+    margin: 100px auto;
+    line-height: 2;
+}
+.contact-me .btn {
+    display: inline-block;
+    background-color: #f4abc4;
+    color: white;
+    padding : 10px 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.container-bottom {
+    padding: 50px 0;
+    background-color: #e3fdfd;
+}
+.container-bottom a{
+    font-size: 20px;
+    margin: 0 15px;
+    color:  mediumslateblue;
+}
+.container-bottom p {
+    color: maroon;
+    margin-top: 50px;
+}
+
+/* .container-top {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 20px;
+    background-color:  #e3fdfd;
+}
+
+.container-middle {
+    margin-left: 260px;
+    width: 200px;
+    height: 200px;
+    border: 20px solid black;
+    background-color: skyblue;
+}
+
+.container-bottom {
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: yellowgreen;
+} */
